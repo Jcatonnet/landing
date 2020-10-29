@@ -1,0 +1,20 @@
+.card {
+    width: 200px;
+    height: 270px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(33 158 35 / 76%);
+    text-align: center;
+}
+.card h4 {
+    color: #4bb730fa;;
+}
+
+.card p {
+    opacity: .5;
+}
+
+.card-img {
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
